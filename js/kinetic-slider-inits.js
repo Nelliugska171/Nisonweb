@@ -13,6 +13,7 @@ const texts = [
   ["Deserty", "Scale intensity during transition"],
 ]
 
+
 rgbKineticSlider = new rgbKineticSlider({
 
   slideImages: images, // array of images > must be 1920 x 1080
@@ -42,6 +43,7 @@ rgbKineticSlider = new rgbKineticSlider({
   navImagesRgbIntensity : 80, // set img rgb intensity for regular nav 
 
   textsDisplay : false, // show title
+  
   
 });
 
