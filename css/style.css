@@ -2821,7 +2821,7 @@ button[type="submit"] i {
   display: block;
 }
 .contact-form .mb-3 input[type="text"] {
-  width: 100%;
+  width: 350px;
 }
 .contact-form .mb-3 textarea {
   width: 100%;
